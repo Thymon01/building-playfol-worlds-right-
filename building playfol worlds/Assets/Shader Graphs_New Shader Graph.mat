@@ -38,7 +38,7 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _Color: {r: 29.622885, g: 7.259363, b: 1.0537785, a: 1}
+    - _Color: {r: 37.31026, g: 17.063553, b: 11.439467, a: 1}
     - _Vector2: {r: 10, g: 0, b: 0, a: 0}
     - _Vector2_1: {r: 3, g: 3, b: 0, a: 0}
     - _scale: {r: 3, g: 3, b: 0, a: 0}
